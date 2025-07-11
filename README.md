@@ -25,3 +25,6 @@ https://github.com/pyeonch/jasypt-example/blob/360a340162d530894141e7566274b66bc
 
 # 테스트코드(JUnit에 VM옵선 넣고 실행 필요)
 https://github.com/pyeonch/jasypt-example/blob/38afcfab1e75c0eec2d42d4de65c93319857d933/src/test/java/com/chp/jasyptpractice/JasyptConfigTest.java#L10-L28
+
+# 테스트코드 성공 메세지
+<img width="1493" height="145" alt="image" src="https://github.com/user-attachments/assets/86c114f2-a91f-4ffa-848c-944eb9e0f60f" />
