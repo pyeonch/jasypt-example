@@ -22,6 +22,7 @@ public class JasyptConfigTest {
         String decrypted = stringEncryptor.decrypt(encrypted);
         System.out.println("복호화: " + decrypted);
 
+        //오리지널이랑 암/복호화 후 스트링이 같으면 테스트 통과
         assertThat(decrypted).isEqualTo(original);
     }
 }
